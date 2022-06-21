@@ -55,4 +55,3 @@ fi
 cd "$APP_DIR"
 
 python_script
-npm i
